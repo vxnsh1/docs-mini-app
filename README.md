@@ -1,12 +1,30 @@
-# React + Vite
+# Docs Mini App with Draggable Cards
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React app featuring draggable document cards built using [Framer Motion](https://www.framer.com/motion/) for animations and [Tailwind CSS](https://tailwindcss.com/) for styling.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- **Draggable Cards**: Users can drag and reorder cards.
+- **Simple UI**: Clean interface to showcase your documents.
 
-## Expanding the ESLint configuration
+## Technologies Used
+- **React**: JavaScript library for building user interfaces.
+- **Tailwind CSS**: Utility-first CSS framework for fast styling.
+- **Framer Motion**: Animation library for React to handle drag-and-drop functionality.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Acknowledgments
+- [Framer Motion](https://www.framer.com/motion/) for the awesome drag-and-drop library.
+- [Tailwind CSS](https://tailwindcss.com/) for the beautiful utility-first styling.
+- [React](https://reactjs.org/) for making UI components simpler.
+
+---
+
+## Contact
+
+Feel free to reach out with any questions or suggestions.
+
+**Vansh Chouhan**  
+[LinkedIn](https://www.linkedin.com/in/vanshchouhan/)
